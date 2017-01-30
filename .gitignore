@@ -1,0 +1,4 @@
+config.yml
+security.txt
+*.pid
+Gemfile.lock
